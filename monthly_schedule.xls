@@ -1,0 +1,1324 @@
+Date,Day,Pool,Shift Label,Assigned Role,Employee ID,Employee,Employee Original Role,Start,End,Hours
+2026-07-01,Wednesday,PAV,AM,lifeguard,LG004,Corbin Wright,lifeguard,05:00,12:00,7.0
+2026-07-01,Wednesday,PAV,AM,lifeguard,LG005,Jake Leach,lifeguard,05:00,12:00,7.0
+2026-07-01,Wednesday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-01,Wednesday,Horse Park,ALL,headguard,HG002,HG_002,headguard,09:15,18:15,9.0
+2026-07-01,Wednesday,Horse Park,ALL,lifeguard,LG006,LG_006,lifeguard,09:15,18:15,9.0
+2026-07-01,Wednesday,Horse Park,ALL,lifeguard,LG007,LG_007,lifeguard,09:15,18:15,9.0
+2026-07-01,Wednesday,Horse Park,ALL,slide_attendant,SA002,SA_002,slide_attendant,09:15,18:15,9.0
+2026-07-01,Wednesday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-01,Wednesday,SFAC,ALL,headguard,HG003,HG_003,headguard,10:30,19:30,9.0
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG008,LG_008,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG009,LG_009,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG010,LG_010,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG011,LG_011,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG012,LG_012,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG013,LG_013,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG014,LG_014,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG015,LG_015,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG016,LG_016,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG017,LG_017,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG018,LG_018,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-01,Wednesday,SFAC,AM,slide_attendant,SA004,SA_004,slide_attendant,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,slide_attendant,SA005,SA_005,slide_attendant,10:30,15:00,4.5
+2026-07-01,Wednesday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-01,Wednesday,PAV,PM,headguard,HG004,HG_004,headguard,12:00,21:00,9.0
+2026-07-01,Wednesday,PAV,PM,lifeguard,LG019,LG_019,lifeguard,12:00,21:00,9.0
+2026-07-01,Wednesday,PAV,PM,lifeguard,LG020,LG_020,lifeguard,12:00,21:00,9.0
+2026-07-01,Wednesday,PAV,PM,lifeguard,LG021,LG_021,lifeguard,12:00,21:00,9.0
+2026-07-01,Wednesday,PAV,PM,lifeguard,LG022,LG_022,lifeguard,12:00,21:00,9.0
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG028,LG_028,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG029,LG_029,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG030,LG_030,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG031,LG_031,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,lifeguard,LG034,LG_034,lifeguard,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,slide_attendant,SA008,SA_008,slide_attendant,15:00,19:30,4.5
+2026-07-01,Wednesday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-02,Thursday,PAV,AM,lifeguard,LG035,LG_035,lifeguard,05:00,12:00,7.0
+2026-07-02,Thursday,PAV,AM,lifeguard,LG036,LG_036,lifeguard,05:00,12:00,7.0
+2026-07-02,Thursday,PAV,AM,lifeguard,LG037,LG_037,lifeguard,05:00,12:00,7.0
+2026-07-02,Thursday,Horse Park,ALL,headguard,HG005,HG_005,headguard,09:15,18:15,9.0
+2026-07-02,Thursday,Horse Park,ALL,lifeguard,LG038,LG_038,lifeguard,09:15,18:15,9.0
+2026-07-02,Thursday,Horse Park,ALL,lifeguard,LG039,LG_039,lifeguard,09:15,18:15,9.0
+2026-07-02,Thursday,Horse Park,ALL,slide_attendant,SA010,SA_010,slide_attendant,09:15,18:15,9.0
+2026-07-02,Thursday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,10:30,19:30,9.0
+2026-07-02,Thursday,SFAC,ALL,headguard,HG006,HG_006,headguard,10:30,19:30,9.0
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG040,LG_040,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG041,LG_041,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG042,LG_042,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG043,LG_043,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG044,LG_044,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG045,LG_045,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG048,LG_048,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG049,LG_049,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG051,LG_051,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,lifeguard,LG052,LG_052,lifeguard,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,ALL,manager,MGR003,MGR_003,manager,10:30,19:30,9.0
+2026-07-02,Thursday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-02,Thursday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-02,Thursday,PAV,PM,headguard,HG007,HG_007,headguard,12:00,21:00,9.0
+2026-07-02,Thursday,PAV,PM,lifeguard,LG053,LG_053,lifeguard,12:00,21:00,9.0
+2026-07-02,Thursday,PAV,PM,lifeguard,LG054,LG_054,lifeguard,12:00,21:00,9.0
+2026-07-02,Thursday,PAV,PM,lifeguard,LG055,LG_055,lifeguard,12:00,21:00,9.0
+2026-07-02,Thursday,PAV,PM,lifeguard,LG056,LG_056,lifeguard,12:00,21:00,9.0
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG057,LG_057,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG058,LG_058,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG059,LG_059,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG060,LG_060,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG061,LG_061,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG062,LG_062,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG063,LG_063,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG064,LG_064,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG065,LG_065,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG066,LG_066,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG067,LG_067,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,lifeguard,LG068,LG_068,lifeguard,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-02,Thursday,SFAC,PM,slide_attendant,SA015,SA_015,slide_attendant,15:00,19:30,4.5
+2026-07-03,Friday,PAV,AM,lifeguard,LG069,LG_069,lifeguard,05:00,12:00,7.0
+2026-07-03,Friday,PAV,AM,lifeguard,LG070,LG_070,lifeguard,05:00,12:00,7.0
+2026-07-03,Friday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-03,Friday,Horse Park,ALL,headguard,HG008,HG_008,headguard,09:15,18:15,9.0
+2026-07-03,Friday,Horse Park,ALL,lifeguard,LG071,LG_071,lifeguard,09:15,18:15,9.0
+2026-07-03,Friday,Horse Park,ALL,lifeguard,LG072,LG_072,lifeguard,09:15,18:15,9.0
+2026-07-03,Friday,Horse Park,ALL,slide_attendant,SA005,SA_005,slide_attendant,09:15,18:15,9.0
+2026-07-03,Friday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-03,Friday,SFAC,ALL,headguard,HG009,HG_009,headguard,10:30,19:30,9.0
+2026-07-03,Friday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG074,LG_074,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG075,LG_075,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG076,LG_076,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG077,LG_077,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG078,LG_078,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG079,LG_079,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG080,LG_080,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG081,LG_081,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG082,LG_082,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG083,LG_083,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,lifeguard,LG084,LG_084,lifeguard,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-03,Friday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,slide_attendant,SA007,SA_007,slide_attendant,10:30,15:00,4.5
+2026-07-03,Friday,SFAC,AM,slide_attendant,SA008,SA_008,slide_attendant,10:30,15:00,4.5
+2026-07-03,Friday,PAV,PM,headguard,HG010,HG_010,headguard,12:00,21:00,9.0
+2026-07-03,Friday,PAV,PM,lifeguard,LG085,LG_085,lifeguard,12:00,21:00,9.0
+2026-07-03,Friday,PAV,PM,lifeguard,LG086,LG_086,lifeguard,12:00,21:00,9.0
+2026-07-03,Friday,PAV,PM,lifeguard,LG087,LG_087,lifeguard,12:00,21:00,9.0
+2026-07-03,Friday,PAV,PM,lifeguard,LG088,LG_088,lifeguard,12:00,21:00,9.0
+2026-07-03,Friday,SFAC,PM,lifeguard,HG011,HG_011,headguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,HG012,HG_012,headguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,HG013,HG_013,headguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,HG014,HG_014,headguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,HG015,HG_015,headguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,LG008,LG_008,lifeguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,LG009,LG_009,lifeguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,LG010,LG_010,lifeguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,LG089,LG_089,lifeguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,LG090,LG_090,lifeguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,LG003,Leighton Scroggins,lifeguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,lifeguard,HG001,Tyler Robinson,headguard,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-03,Friday,SFAC,PM,slide_attendant,SA012,SA_012,slide_attendant,15:00,19:30,4.5
+2026-07-04,Saturday,PAV,AM,lifeguard,LG011,LG_011,lifeguard,05:00,12:00,7.0
+2026-07-04,Saturday,PAV,AM,lifeguard,LG012,LG_012,lifeguard,05:00,12:00,7.0
+2026-07-04,Saturday,PAV,AM,lifeguard,LG013,LG_013,lifeguard,05:00,12:00,7.0
+2026-07-04,Saturday,Horse Park,ALL,headguard,HG011,HG_011,headguard,09:15,18:15,9.0
+2026-07-04,Saturday,Horse Park,ALL,lifeguard,LG014,LG_014,lifeguard,09:15,18:15,9.0
+2026-07-04,Saturday,Horse Park,ALL,lifeguard,LG015,LG_015,lifeguard,09:15,18:15,9.0
+2026-07-04,Saturday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,09:15,18:15,9.0
+2026-07-04,Saturday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-04,Saturday,SFAC,ALL,headguard,HG012,HG_012,headguard,10:30,19:30,9.0
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG016,LG_016,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG017,LG_017,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG018,LG_018,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG023,LG_023,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG024,LG_024,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG025,LG_025,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG026,LG_026,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG027,LG_027,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG028,LG_028,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG029,LG_029,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG030,LG_030,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,lifeguard,LG031,LG_031,lifeguard,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-04,Saturday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,slide_attendant,SA014,SA_014,slide_attendant,10:30,15:00,4.5
+2026-07-04,Saturday,SFAC,AM,slide_attendant,SA015,SA_015,slide_attendant,10:30,15:00,4.5
+2026-07-04,Saturday,PAV,PM,headguard,HG013,HG_013,headguard,12:00,21:00,9.0
+2026-07-04,Saturday,PAV,PM,lifeguard,LG032,LG_032,lifeguard,12:00,21:00,9.0
+2026-07-04,Saturday,PAV,PM,lifeguard,LG033,LG_033,lifeguard,12:00,21:00,9.0
+2026-07-04,Saturday,PAV,PM,lifeguard,LG034,LG_034,lifeguard,12:00,21:00,9.0
+2026-07-04,Saturday,PAV,PM,lifeguard,LG040,LG_040,lifeguard,12:00,21:00,9.0
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG041,LG_041,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG042,LG_042,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG043,LG_043,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG044,LG_044,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG046,LG_046,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG047,LG_047,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG048,LG_048,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG049,LG_049,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG051,LG_051,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG052,LG_052,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,lifeguard,LG057,LG_057,lifeguard,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-04,Saturday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-05,Sunday,Horse Park,ALL,headguard,HG014,HG_014,headguard,11:15,18:15,7.0
+2026-07-05,Sunday,Horse Park,ALL,lifeguard,LG058,LG_058,lifeguard,11:15,18:15,7.0
+2026-07-05,Sunday,Horse Park,ALL,lifeguard,LG059,LG_059,lifeguard,11:15,18:15,7.0
+2026-07-05,Sunday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,11:15,18:15,7.0
+2026-07-05,Sunday,PAV,ALL,headguard,HG015,HG_015,headguard,11:30,18:15,6.75
+2026-07-05,Sunday,PAV,ALL,lifeguard,LG060,LG_060,lifeguard,11:30,18:15,6.75
+2026-07-05,Sunday,PAV,ALL,lifeguard,LG061,LG_061,lifeguard,11:30,18:15,6.75
+2026-07-05,Sunday,PAV,ALL,lifeguard,LG062,LG_062,lifeguard,11:30,18:15,6.75
+2026-07-05,Sunday,PAV,ALL,lifeguard,LG063,LG_063,lifeguard,11:30,18:15,6.75
+2026-07-05,Sunday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,headguard,HG001,Tyler Robinson,headguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG064,LG_064,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG065,LG_065,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG066,LG_066,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG067,LG_067,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG068,LG_068,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG073,LG_073,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG074,LG_074,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG075,LG_075,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG076,LG_076,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG077,LG_077,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG078,LG_078,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,lifeguard,LG079,LG_079,lifeguard,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,slide_attendant,SA007,SA_007,slide_attendant,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,slide_attendant,SA008,SA_008,slide_attendant,11:30,19:30,8.0
+2026-07-05,Sunday,SFAC,ALL,slide_attendant,SA009,SA_009,slide_attendant,11:30,19:30,8.0
+2026-07-06,Monday,PAV,AM,lifeguard,LG080,LG_080,lifeguard,05:00,12:00,7.0
+2026-07-06,Monday,PAV,AM,lifeguard,LG081,LG_081,lifeguard,05:00,12:00,7.0
+2026-07-06,Monday,PAV,AM,lifeguard,LG082,LG_082,lifeguard,05:00,12:00,7.0
+2026-07-06,Monday,Horse Park,ALL,headguard,HG002,HG_002,headguard,09:15,18:15,9.0
+2026-07-06,Monday,Horse Park,ALL,lifeguard,LG083,LG_083,lifeguard,09:15,18:15,9.0
+2026-07-06,Monday,Horse Park,ALL,lifeguard,LG084,LG_084,lifeguard,09:15,18:15,9.0
+2026-07-06,Monday,Horse Park,ALL,slide_attendant,SA010,SA_010,slide_attendant,09:15,18:15,9.0
+2026-07-06,Monday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,10:30,19:30,9.0
+2026-07-06,Monday,SFAC,ALL,headguard,HG003,HG_003,headguard,10:30,19:30,9.0
+2026-07-06,Monday,SFAC,AM,lifeguard,LG004,Corbin Wright,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG005,Jake Leach,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG006,LG_006,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG035,LG_035,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG036,LG_036,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG089,LG_089,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG090,LG_090,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,lifeguard,LG003,Leighton Scroggins,lifeguard,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,ALL,manager,MGR003,MGR_003,manager,10:30,19:30,9.0
+2026-07-06,Monday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-06,Monday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-06,Monday,PAV,PM,headguard,HG004,HG_004,headguard,12:00,21:00,9.0
+2026-07-06,Monday,PAV,PM,lifeguard,LG007,LG_007,lifeguard,12:00,21:00,9.0
+2026-07-06,Monday,PAV,PM,lifeguard,LG008,LG_008,lifeguard,12:00,21:00,9.0
+2026-07-06,Monday,PAV,PM,lifeguard,LG009,LG_009,lifeguard,12:00,21:00,9.0
+2026-07-06,Monday,PAV,PM,lifeguard,LG010,LG_010,lifeguard,12:00,21:00,9.0
+2026-07-06,Monday,SFAC,PM,lifeguard,LG016,LG_016,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG017,LG_017,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG018,LG_018,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG019,LG_019,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG020,LG_020,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG021,LG_021,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG022,LG_022,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-06,Monday,SFAC,PM,slide_attendant,SA015,SA_015,slide_attendant,15:00,19:30,4.5
+2026-07-07,Tuesday,PAV,AM,lifeguard,LG028,LG_028,lifeguard,05:00,12:00,7.0
+2026-07-07,Tuesday,PAV,AM,lifeguard,LG029,LG_029,lifeguard,05:00,12:00,7.0
+2026-07-07,Tuesday,PAV,AM,lifeguard,LG030,LG_030,lifeguard,05:00,12:00,7.0
+2026-07-07,Tuesday,Horse Park,ALL,headguard,HG005,HG_005,headguard,09:15,18:15,9.0
+2026-07-07,Tuesday,Horse Park,ALL,lifeguard,LG031,LG_031,lifeguard,09:15,18:15,9.0
+2026-07-07,Tuesday,Horse Park,ALL,lifeguard,LG038,LG_038,lifeguard,09:15,18:15,9.0
+2026-07-07,Tuesday,Horse Park,ALL,slide_attendant,SA004,SA_004,slide_attendant,09:15,18:15,9.0
+2026-07-07,Tuesday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-07,Tuesday,SFAC,ALL,headguard,HG006,HG_006,headguard,10:30,19:30,9.0
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG039,LG_039,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG041,LG_041,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG042,LG_042,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG043,LG_043,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG044,LG_044,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG045,LG_045,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG048,LG_048,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG049,LG_049,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,lifeguard,LG051,LG_051,lifeguard,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-07,Tuesday,SFAC,AM,slide_attendant,SA005,SA_005,slide_attendant,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-07,Tuesday,SFAC,AM,slide_attendant,SA007,SA_007,slide_attendant,10:30,15:00,4.5
+2026-07-07,Tuesday,PAV,PM,headguard,HG007,HG_007,headguard,12:00,21:00,9.0
+2026-07-07,Tuesday,PAV,PM,lifeguard,LG052,LG_052,lifeguard,12:00,21:00,9.0
+2026-07-07,Tuesday,PAV,PM,lifeguard,LG053,LG_053,lifeguard,12:00,21:00,9.0
+2026-07-07,Tuesday,PAV,PM,lifeguard,LG054,LG_054,lifeguard,12:00,21:00,9.0
+2026-07-07,Tuesday,PAV,PM,lifeguard,LG055,LG_055,lifeguard,12:00,21:00,9.0
+2026-07-07,Tuesday,SFAC,PM,lifeguard,HG008,HG_008,headguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,HG009,HG_009,headguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,HG010,HG_010,headguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG056,LG_056,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG057,LG_057,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG060,LG_060,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG071,LG_071,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG072,LG_072,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG085,LG_085,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG086,LG_086,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG087,LG_087,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,lifeguard,LG088,LG_088,lifeguard,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,slide_attendant,SA008,SA_008,slide_attendant,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-07,Tuesday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-08,Wednesday,PAV,AM,lifeguard,LG061,LG_061,lifeguard,05:00,12:00,7.0
+2026-07-08,Wednesday,PAV,AM,lifeguard,LG062,LG_062,lifeguard,05:00,12:00,7.0
+2026-07-08,Wednesday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-08,Wednesday,Horse Park,ALL,headguard,HG015,HG_015,headguard,09:15,18:15,9.0
+2026-07-08,Wednesday,Horse Park,ALL,lifeguard,LG011,LG_011,lifeguard,09:15,18:15,9.0
+2026-07-08,Wednesday,Horse Park,ALL,lifeguard,LG063,LG_063,lifeguard,09:15,18:15,9.0
+2026-07-08,Wednesday,Horse Park,ALL,slide_attendant,SA012,SA_012,slide_attendant,09:15,18:15,9.0
+2026-07-08,Wednesday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-08,Wednesday,SFAC,ALL,headguard,HG014,HG_014,headguard,10:30,19:30,9.0
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG012,LG_012,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG013,LG_013,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG058,LG_058,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG059,LG_059,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG064,LG_064,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG065,LG_065,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG066,LG_066,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG067,LG_067,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG068,LG_068,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,lifeguard,LG074,LG_074,lifeguard,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-08,Wednesday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,slide_attendant,SA014,SA_014,slide_attendant,10:30,15:00,4.5
+2026-07-08,Wednesday,SFAC,AM,slide_attendant,SA015,SA_015,slide_attendant,10:30,15:00,4.5
+2026-07-08,Wednesday,PAV,PM,headguard,HG001,Tyler Robinson,headguard,12:00,21:00,9.0
+2026-07-08,Wednesday,PAV,PM,lifeguard,LG075,LG_075,lifeguard,12:00,21:00,9.0
+2026-07-08,Wednesday,PAV,PM,lifeguard,LG076,LG_076,lifeguard,12:00,21:00,9.0
+2026-07-08,Wednesday,PAV,PM,lifeguard,LG077,LG_077,lifeguard,12:00,21:00,9.0
+2026-07-08,Wednesday,PAV,PM,lifeguard,LG078,LG_078,lifeguard,12:00,21:00,9.0
+2026-07-08,Wednesday,SFAC,PM,lifeguard,HG011,HG_011,headguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,HG012,HG_012,headguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,HG013,HG_013,headguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG014,LG_014,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG015,LG_015,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG034,LG_034,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG040,LG_040,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG079,LG_079,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG089,LG_089,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,lifeguard,LG090,LG_090,lifeguard,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,slide_attendant,SA005,SA_005,slide_attendant,15:00,19:30,4.5
+2026-07-08,Wednesday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-09,Thursday,PAV,AM,lifeguard,LG004,Corbin Wright,lifeguard,05:00,12:00,7.0
+2026-07-09,Thursday,PAV,AM,lifeguard,LG005,Jake Leach,lifeguard,05:00,12:00,7.0
+2026-07-09,Thursday,PAV,AM,lifeguard,LG003,Leighton Scroggins,lifeguard,05:00,12:00,7.0
+2026-07-09,Thursday,Horse Park,ALL,headguard,HG008,HG_008,headguard,09:15,18:15,9.0
+2026-07-09,Thursday,Horse Park,ALL,lifeguard,LG035,LG_035,lifeguard,09:15,18:15,9.0
+2026-07-09,Thursday,Horse Park,ALL,lifeguard,LG036,LG_036,lifeguard,09:15,18:15,9.0
+2026-07-09,Thursday,Horse Park,ALL,slide_attendant,SA007,SA_007,slide_attendant,09:15,18:15,9.0
+2026-07-09,Thursday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-09,Thursday,SFAC,ALL,headguard,HG009,HG_009,headguard,10:30,19:30,9.0
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG006,LG_006,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG016,LG_016,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG017,LG_017,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG018,LG_018,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG019,LG_019,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG020,LG_020,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG021,LG_021,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG022,LG_022,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG023,LG_023,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-09,Thursday,SFAC,AM,slide_attendant,SA008,SA_008,slide_attendant,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,slide_attendant,SA009,SA_009,slide_attendant,10:30,15:00,4.5
+2026-07-09,Thursday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-09,Thursday,PAV,PM,headguard,HG010,HG_010,headguard,12:00,21:00,9.0
+2026-07-09,Thursday,PAV,PM,lifeguard,LG024,LG_024,lifeguard,12:00,21:00,9.0
+2026-07-09,Thursday,PAV,PM,lifeguard,LG025,LG_025,lifeguard,12:00,21:00,9.0
+2026-07-09,Thursday,PAV,PM,lifeguard,LG026,LG_026,lifeguard,12:00,21:00,9.0
+2026-07-09,Thursday,PAV,PM,lifeguard,LG027,LG_027,lifeguard,12:00,21:00,9.0
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG039,LG_039,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG041,LG_041,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG042,LG_042,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG043,LG_043,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG044,LG_044,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG046,LG_046,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG047,LG_047,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG048,LG_048,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG049,LG_049,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG051,LG_051,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,lifeguard,LG056,LG_056,lifeguard,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-09,Thursday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-10,Friday,PAV,AM,lifeguard,LG057,LG_057,lifeguard,05:00,12:00,7.0
+2026-07-10,Friday,PAV,AM,lifeguard,LG071,LG_071,lifeguard,05:00,12:00,7.0
+2026-07-10,Friday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-10,Friday,Horse Park,ALL,headguard,HG011,HG_011,headguard,09:15,18:15,9.0
+2026-07-10,Friday,Horse Park,ALL,lifeguard,LG072,LG_072,lifeguard,09:15,18:15,9.0
+2026-07-10,Friday,Horse Park,ALL,lifeguard,LG085,LG_085,lifeguard,09:15,18:15,9.0
+2026-07-10,Friday,Horse Park,ALL,slide_attendant,SA015,SA_015,slide_attendant,09:15,18:15,9.0
+2026-07-10,Friday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,10:30,19:30,9.0
+2026-07-10,Friday,SFAC,ALL,headguard,HG012,HG_012,headguard,10:30,19:30,9.0
+2026-07-10,Friday,SFAC,AM,lifeguard,LG012,LG_012,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG013,LG_013,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG058,LG_058,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG059,LG_059,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG060,LG_060,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG064,LG_064,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG065,LG_065,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG066,LG_066,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG067,LG_067,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG086,LG_086,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG087,LG_087,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,lifeguard,LG088,LG_088,lifeguard,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,ALL,manager,MGR003,MGR_003,manager,10:30,19:30,9.0
+2026-07-10,Friday,SFAC,AM,slide_attendant,SA002,SA_002,slide_attendant,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,slide_attendant,SA004,SA_004,slide_attendant,10:30,15:00,4.5
+2026-07-10,Friday,SFAC,AM,slide_attendant,SA005,SA_005,slide_attendant,10:30,15:00,4.5
+2026-07-10,Friday,PAV,PM,headguard,HG013,HG_013,headguard,12:00,21:00,9.0
+2026-07-10,Friday,PAV,PM,lifeguard,LG068,LG_068,lifeguard,12:00,21:00,9.0
+2026-07-10,Friday,PAV,PM,lifeguard,LG073,LG_073,lifeguard,12:00,21:00,9.0
+2026-07-10,Friday,PAV,PM,lifeguard,LG074,LG_074,lifeguard,12:00,21:00,9.0
+2026-07-10,Friday,PAV,PM,lifeguard,LG079,LG_079,lifeguard,12:00,21:00,9.0
+2026-07-10,Friday,SFAC,PM,lifeguard,LG014,LG_014,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG015,LG_015,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG028,LG_028,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG029,LG_029,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG030,LG_030,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG034,LG_034,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG040,LG_040,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG080,LG_080,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG081,LG_081,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,lifeguard,LG082,LG_082,lifeguard,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,slide_attendant,SA008,SA_008,slide_attendant,15:00,19:30,4.5
+2026-07-10,Friday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-11,Saturday,PAV,AM,lifeguard,LG061,LG_061,lifeguard,05:00,12:00,7.0
+2026-07-11,Saturday,PAV,AM,lifeguard,LG062,LG_062,lifeguard,05:00,12:00,7.0
+2026-07-11,Saturday,PAV,AM,lifeguard,LG083,LG_083,lifeguard,05:00,12:00,7.0
+2026-07-11,Saturday,Horse Park,ALL,headguard,HG002,HG_002,headguard,09:15,18:15,9.0
+2026-07-11,Saturday,Horse Park,ALL,lifeguard,LG084,LG_084,lifeguard,09:15,18:15,9.0
+2026-07-11,Saturday,Horse Park,ALL,lifeguard,LG089,LG_089,lifeguard,09:15,18:15,9.0
+2026-07-11,Saturday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,09:15,18:15,9.0
+2026-07-11,Saturday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-11,Saturday,SFAC,ALL,headguard,HG003,HG_003,headguard,10:30,19:30,9.0
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG006,LG_006,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG007,LG_007,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG008,LG_008,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG009,LG_009,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG010,LG_010,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG016,LG_016,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG017,LG_017,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG018,LG_018,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,lifeguard,LG090,LG_090,lifeguard,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-11,Saturday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-11,Saturday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-11,Saturday,PAV,PM,headguard,HG004,HG_004,headguard,12:00,21:00,9.0
+2026-07-11,Saturday,PAV,PM,lifeguard,LG019,LG_019,lifeguard,12:00,21:00,9.0
+2026-07-11,Saturday,PAV,PM,lifeguard,LG020,LG_020,lifeguard,12:00,21:00,9.0
+2026-07-11,Saturday,PAV,PM,lifeguard,LG021,LG_021,lifeguard,12:00,21:00,9.0
+2026-07-11,Saturday,PAV,PM,lifeguard,LG022,LG_022,lifeguard,12:00,21:00,9.0
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG031,LG_031,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG038,LG_038,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG039,LG_039,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG041,LG_041,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG042,LG_042,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG043,LG_043,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG044,LG_044,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG046,LG_046,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG047,LG_047,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,lifeguard,LG048,LG_048,lifeguard,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-11,Saturday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-12,Sunday,Horse Park,ALL,headguard,HG005,HG_005,headguard,11:15,18:15,7.0
+2026-07-12,Sunday,Horse Park,ALL,lifeguard,LG049,LG_049,lifeguard,11:15,18:15,7.0
+2026-07-12,Sunday,Horse Park,ALL,lifeguard,LG051,LG_051,lifeguard,11:15,18:15,7.0
+2026-07-12,Sunday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,11:15,18:15,7.0
+2026-07-12,Sunday,PAV,ALL,headguard,HG006,HG_006,headguard,11:30,18:15,6.75
+2026-07-12,Sunday,PAV,ALL,lifeguard,LG052,LG_052,lifeguard,11:30,18:15,6.75
+2026-07-12,Sunday,PAV,ALL,lifeguard,LG053,LG_053,lifeguard,11:30,18:15,6.75
+2026-07-12,Sunday,PAV,ALL,lifeguard,LG054,LG_054,lifeguard,11:30,18:15,6.75
+2026-07-12,Sunday,PAV,ALL,lifeguard,LG055,LG_055,lifeguard,11:30,18:15,6.75
+2026-07-12,Sunday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,headguard,HG007,HG_007,headguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,HG015,HG_015,headguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG011,LG_011,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG012,LG_012,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG013,LG_013,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG056,LG_056,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG058,LG_058,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG059,LG_059,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG060,LG_060,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG063,LG_063,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG086,LG_086,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG087,LG_087,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,lifeguard,LG088,LG_088,lifeguard,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,manager,MGR005,MGR_005,manager,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,slide_attendant,SA004,SA_004,slide_attendant,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,slide_attendant,SA005,SA_005,slide_attendant,11:30,19:30,8.0
+2026-07-12,Sunday,SFAC,ALL,slide_attendant,SA006,SA_006,slide_attendant,11:30,19:30,8.0
+2026-07-13,Monday,PAV,AM,lifeguard,LG080,LG_080,lifeguard,05:00,12:00,7.0
+2026-07-13,Monday,PAV,AM,lifeguard,LG081,LG_081,lifeguard,05:00,12:00,7.0
+2026-07-13,Monday,PAV,AM,lifeguard,LG082,LG_082,lifeguard,05:00,12:00,7.0
+2026-07-13,Monday,Horse Park,ALL,headguard,HG014,HG_014,headguard,09:15,18:15,9.0
+2026-07-13,Monday,Horse Park,ALL,lifeguard,LG090,LG_090,lifeguard,09:15,18:15,9.0
+2026-07-13,Monday,Horse Park,ALL,lifeguard,LG003,Leighton Scroggins,lifeguard,09:15,18:15,9.0
+2026-07-13,Monday,Horse Park,ALL,slide_attendant,SA010,SA_010,slide_attendant,09:15,18:15,9.0
+2026-07-13,Monday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-13,Monday,SFAC,ALL,headguard,HG001,Tyler Robinson,headguard,10:30,19:30,9.0
+2026-07-13,Monday,SFAC,AM,lifeguard,LG004,Corbin Wright,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG005,Jake Leach,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG028,LG_028,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG029,LG_029,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG030,LG_030,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG035,LG_035,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG036,LG_036,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-13,Monday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-13,Monday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-13,Monday,PAV,PM,headguard,HG008,HG_008,headguard,12:00,21:00,9.0
+2026-07-13,Monday,PAV,PM,lifeguard,LG064,LG_064,lifeguard,12:00,21:00,9.0
+2026-07-13,Monday,PAV,PM,lifeguard,LG065,LG_065,lifeguard,12:00,21:00,9.0
+2026-07-13,Monday,PAV,PM,lifeguard,LG071,LG_071,lifeguard,12:00,21:00,9.0
+2026-07-13,Monday,PAV,PM,lifeguard,LG083,LG_083,lifeguard,12:00,21:00,9.0
+2026-07-13,Monday,SFAC,PM,lifeguard,LG006,LG_006,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG007,LG_007,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG008,LG_008,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG009,LG_009,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG010,LG_010,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG014,LG_014,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG066,LG_066,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG067,LG_067,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG075,LG_075,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG076,LG_076,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG077,LG_077,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,lifeguard,LG078,LG_078,lifeguard,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-13,Monday,SFAC,PM,slide_attendant,SA015,SA_015,slide_attendant,15:00,19:30,4.5
+2026-07-14,Tuesday,PAV,AM,lifeguard,LG015,LG_015,lifeguard,05:00,12:00,7.0
+2026-07-14,Tuesday,PAV,AM,lifeguard,LG016,LG_016,lifeguard,05:00,12:00,7.0
+2026-07-14,Tuesday,PAV,AM,lifeguard,LG017,LG_017,lifeguard,05:00,12:00,7.0
+2026-07-14,Tuesday,Horse Park,ALL,headguard,HG009,HG_009,headguard,09:15,18:15,9.0
+2026-07-14,Tuesday,Horse Park,ALL,lifeguard,LG018,LG_018,lifeguard,09:15,18:15,9.0
+2026-07-14,Tuesday,Horse Park,ALL,lifeguard,LG023,LG_023,lifeguard,09:15,18:15,9.0
+2026-07-14,Tuesday,Horse Park,ALL,slide_attendant,SA008,SA_008,slide_attendant,09:15,18:15,9.0
+2026-07-14,Tuesday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-14,Tuesday,SFAC,ALL,headguard,HG010,HG_010,headguard,10:30,19:30,9.0
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG024,LG_024,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG025,LG_025,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG026,LG_026,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG027,LG_027,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG031,LG_031,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG032,LG_032,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG033,LG_033,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG034,LG_034,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG038,LG_038,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG039,LG_039,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG040,LG_040,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-14,Tuesday,SFAC,AM,slide_attendant,SA002,SA_002,slide_attendant,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,slide_attendant,SA004,SA_004,slide_attendant,10:30,15:00,4.5
+2026-07-14,Tuesday,SFAC,AM,slide_attendant,SA009,SA_009,slide_attendant,10:30,15:00,4.5
+2026-07-14,Tuesday,PAV,PM,headguard,HG006,HG_006,headguard,12:00,21:00,9.0
+2026-07-14,Tuesday,PAV,PM,lifeguard,LG041,LG_041,lifeguard,12:00,21:00,9.0
+2026-07-14,Tuesday,PAV,PM,lifeguard,LG042,LG_042,lifeguard,12:00,21:00,9.0
+2026-07-14,Tuesday,PAV,PM,lifeguard,LG043,LG_043,lifeguard,12:00,21:00,9.0
+2026-07-14,Tuesday,PAV,PM,lifeguard,LG044,LG_044,lifeguard,12:00,21:00,9.0
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG046,LG_046,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG047,LG_047,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG048,LG_048,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG052,LG_052,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG053,LG_053,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG054,LG_054,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG055,LG_055,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG072,LG_072,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG084,LG_084,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG085,LG_085,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,lifeguard,LG089,LG_089,lifeguard,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,slide_attendant,SA005,SA_005,slide_attendant,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-14,Tuesday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-15,Wednesday,PAV,AM,lifeguard,LG049,LG_049,lifeguard,05:00,12:00,7.0
+2026-07-15,Wednesday,PAV,AM,lifeguard,LG051,LG_051,lifeguard,05:00,12:00,7.0
+2026-07-15,Wednesday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-15,Wednesday,Horse Park,ALL,headguard,HG005,HG_005,headguard,09:15,18:15,9.0
+2026-07-15,Wednesday,Horse Park,ALL,lifeguard,LG061,LG_061,lifeguard,09:15,18:15,9.0
+2026-07-15,Wednesday,Horse Park,ALL,lifeguard,LG062,LG_062,lifeguard,09:15,18:15,9.0
+2026-07-15,Wednesday,Horse Park,ALL,slide_attendant,SA012,SA_012,slide_attendant,09:15,18:15,9.0
+2026-07-15,Wednesday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,10:30,19:30,9.0
+2026-07-15,Wednesday,SFAC,ALL,headguard,HG007,HG_007,headguard,10:30,19:30,9.0
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG019,LG_019,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG020,LG_020,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG021,LG_021,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG056,LG_056,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG068,LG_068,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG074,LG_074,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG079,LG_079,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG086,LG_086,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG087,LG_087,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,lifeguard,LG088,LG_088,lifeguard,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,ALL,manager,MGR003,MGR_003,manager,10:30,19:30,9.0
+2026-07-15,Wednesday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,slide_attendant,SA014,SA_014,slide_attendant,10:30,15:00,4.5
+2026-07-15,Wednesday,SFAC,AM,slide_attendant,SA015,SA_015,slide_attendant,10:30,15:00,4.5
+2026-07-15,Wednesday,PAV,PM,headguard,HG002,HG_002,headguard,12:00,21:00,9.0
+2026-07-15,Wednesday,PAV,PM,lifeguard,HG003,HG_003,headguard,12:00,21:00,9.0
+2026-07-15,Wednesday,PAV,PM,lifeguard,HG004,HG_004,headguard,12:00,21:00,9.0
+2026-07-15,Wednesday,PAV,PM,lifeguard,HG011,HG_011,headguard,12:00,21:00,9.0
+2026-07-15,Wednesday,PAV,PM,lifeguard,LG022,LG_022,lifeguard,12:00,21:00,9.0
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG004,Corbin Wright,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,HG012,HG_012,headguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,HG013,HG_013,headguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,HG015,HG_015,headguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG005,Jake Leach,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG011,LG_011,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG012,LG_012,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG013,LG_013,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG058,LG_058,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG059,LG_059,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG060,LG_060,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,lifeguard,LG063,LG_063,lifeguard,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-15,Wednesday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-16,Thursday,PAV,AM,lifeguard,LG028,LG_028,lifeguard,05:00,12:00,7.0
+2026-07-16,Thursday,PAV,AM,lifeguard,LG029,LG_029,lifeguard,05:00,12:00,7.0
+2026-07-16,Thursday,PAV,AM,lifeguard,LG030,LG_030,lifeguard,05:00,12:00,7.0
+2026-07-16,Thursday,Horse Park,ALL,headguard,HG012,HG_012,headguard,09:15,18:15,9.0
+2026-07-16,Thursday,Horse Park,ALL,lifeguard,LG035,LG_035,lifeguard,09:15,18:15,9.0
+2026-07-16,Thursday,Horse Park,ALL,lifeguard,LG036,LG_036,lifeguard,09:15,18:15,9.0
+2026-07-16,Thursday,Horse Park,ALL,slide_attendant,SA004,SA_004,slide_attendant,09:15,18:15,9.0
+2026-07-16,Thursday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-16,Thursday,SFAC,ALL,headguard,HG013,HG_013,headguard,10:30,19:30,9.0
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG006,LG_006,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG007,LG_007,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG066,LG_066,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG067,LG_067,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG075,LG_075,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG076,LG_076,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG077,LG_077,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,lifeguard,LG078,LG_078,lifeguard,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-16,Thursday,SFAC,AM,slide_attendant,SA005,SA_005,slide_attendant,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-16,Thursday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-16,Thursday,PAV,PM,headguard,HG015,HG_015,headguard,12:00,21:00,9.0
+2026-07-16,Thursday,PAV,PM,lifeguard,LG008,LG_008,lifeguard,12:00,21:00,9.0
+2026-07-16,Thursday,PAV,PM,lifeguard,LG009,LG_009,lifeguard,12:00,21:00,9.0
+2026-07-16,Thursday,PAV,PM,lifeguard,LG010,LG_010,lifeguard,12:00,21:00,9.0
+2026-07-16,Thursday,PAV,PM,lifeguard,LG014,LG_014,lifeguard,12:00,21:00,9.0
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG031,LG_031,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG034,LG_034,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG038,LG_038,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG039,LG_039,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG040,LG_040,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-16,Thursday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-17,Friday,PAV,AM,lifeguard,LG046,LG_046,lifeguard,05:00,12:00,7.0
+2026-07-17,Friday,PAV,AM,lifeguard,LG047,LG_047,lifeguard,05:00,12:00,7.0
+2026-07-17,Friday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-17,Friday,Horse Park,ALL,headguard,HG014,HG_014,headguard,09:15,18:15,9.0
+2026-07-17,Friday,Horse Park,ALL,lifeguard,LG048,LG_048,lifeguard,09:15,18:15,9.0
+2026-07-17,Friday,Horse Park,ALL,lifeguard,LG072,LG_072,lifeguard,09:15,18:15,9.0
+2026-07-17,Friday,Horse Park,ALL,slide_attendant,SA015,SA_015,slide_attendant,09:15,18:15,9.0
+2026-07-17,Friday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-17,Friday,SFAC,ALL,headguard,HG001,Tyler Robinson,headguard,10:30,19:30,9.0
+2026-07-17,Friday,SFAC,AM,lifeguard,LG052,LG_052,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG053,LG_053,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG054,LG_054,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG055,LG_055,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG056,LG_056,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG068,LG_068,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG074,LG_074,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG079,LG_079,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG084,LG_084,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG085,LG_085,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,lifeguard,LG089,LG_089,lifeguard,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-17,Friday,SFAC,AM,slide_attendant,SA007,SA_007,slide_attendant,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,slide_attendant,SA008,SA_008,slide_attendant,10:30,15:00,4.5
+2026-07-17,Friday,SFAC,AM,slide_attendant,SA009,SA_009,slide_attendant,10:30,15:00,4.5
+2026-07-17,Friday,PAV,PM,headguard,HG008,HG_008,headguard,12:00,21:00,9.0
+2026-07-17,Friday,PAV,PM,lifeguard,LG019,LG_019,lifeguard,12:00,21:00,9.0
+2026-07-17,Friday,PAV,PM,lifeguard,LG086,LG_086,lifeguard,12:00,21:00,9.0
+2026-07-17,Friday,PAV,PM,lifeguard,LG087,LG_087,lifeguard,12:00,21:00,9.0
+2026-07-17,Friday,PAV,PM,lifeguard,LG088,LG_088,lifeguard,12:00,21:00,9.0
+2026-07-17,Friday,SFAC,PM,lifeguard,LG011,LG_011,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG012,LG_012,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG013,LG_013,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG020,LG_020,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG021,LG_021,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG058,LG_058,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG059,LG_059,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG060,LG_060,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG063,LG_063,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG080,LG_080,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG081,LG_081,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,lifeguard,LG082,LG_082,lifeguard,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,slide_attendant,SA005,SA_005,slide_attendant,15:00,19:30,4.5
+2026-07-17,Friday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-18,Saturday,PAV,AM,lifeguard,LG015,LG_015,lifeguard,05:00,12:00,7.0
+2026-07-18,Saturday,PAV,AM,lifeguard,LG016,LG_016,lifeguard,05:00,12:00,7.0
+2026-07-18,Saturday,PAV,AM,lifeguard,LG017,LG_017,lifeguard,05:00,12:00,7.0
+2026-07-18,Saturday,Horse Park,ALL,headguard,HG009,HG_009,headguard,09:15,18:15,9.0
+2026-07-18,Saturday,Horse Park,ALL,lifeguard,LG049,LG_049,lifeguard,09:15,18:15,9.0
+2026-07-18,Saturday,Horse Park,ALL,lifeguard,LG051,LG_051,lifeguard,09:15,18:15,9.0
+2026-07-18,Saturday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,09:15,18:15,9.0
+2026-07-18,Saturday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-18,Saturday,SFAC,ALL,headguard,HG010,HG_010,headguard,10:30,19:30,9.0
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG004,Corbin Wright,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG005,Jake Leach,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG064,LG_064,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG065,LG_065,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG071,LG_071,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG083,LG_083,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG090,LG_090,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,lifeguard,LG003,Leighton Scroggins,lifeguard,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-18,Saturday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-18,Saturday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-18,Saturday,PAV,PM,headguard,HG006,HG_006,headguard,12:00,21:00,9.0
+2026-07-18,Saturday,PAV,PM,lifeguard,LG066,LG_066,lifeguard,12:00,21:00,9.0
+2026-07-18,Saturday,PAV,PM,lifeguard,LG067,LG_067,lifeguard,12:00,21:00,9.0
+2026-07-18,Saturday,PAV,PM,lifeguard,LG075,LG_075,lifeguard,12:00,21:00,9.0
+2026-07-18,Saturday,PAV,PM,lifeguard,LG076,LG_076,lifeguard,12:00,21:00,9.0
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG006,LG_006,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG007,LG_007,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG018,LG_018,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG031,LG_031,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG077,LG_077,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,lifeguard,LG078,LG_078,lifeguard,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-18,Saturday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-19,Sunday,Horse Park,ALL,headguard,HG005,HG_005,headguard,11:15,18:15,7.0
+2026-07-19,Sunday,Horse Park,ALL,lifeguard,LG033,LG_033,lifeguard,11:15,18:15,7.0
+2026-07-19,Sunday,Horse Park,ALL,lifeguard,LG034,LG_034,lifeguard,11:15,18:15,7.0
+2026-07-19,Sunday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,11:15,18:15,7.0
+2026-07-19,Sunday,PAV,ALL,headguard,HG007,HG_007,headguard,11:30,18:15,6.75
+2026-07-19,Sunday,PAV,ALL,lifeguard,LG038,LG_038,lifeguard,11:30,18:15,6.75
+2026-07-19,Sunday,PAV,ALL,lifeguard,LG039,LG_039,lifeguard,11:30,18:15,6.75
+2026-07-19,Sunday,PAV,ALL,lifeguard,LG040,LG_040,lifeguard,11:30,18:15,6.75
+2026-07-19,Sunday,PAV,ALL,lifeguard,LG041,LG_041,lifeguard,11:30,18:15,6.75
+2026-07-19,Sunday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,headguard,HG002,HG_002,headguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG042,LG_042,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG043,LG_043,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG044,LG_044,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG045,LG_045,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG052,LG_052,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG053,LG_053,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG054,LG_054,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG055,LG_055,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG061,LG_061,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG084,LG_084,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG085,LG_085,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,lifeguard,LG089,LG_089,lifeguard,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,manager,MGR003,MGR_003,manager,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,slide_attendant,SA002,SA_002,slide_attendant,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,slide_attendant,SA008,SA_008,slide_attendant,11:30,19:30,8.0
+2026-07-19,Sunday,SFAC,ALL,slide_attendant,SA009,SA_009,slide_attendant,11:30,19:30,8.0
+2026-07-20,Monday,PAV,AM,lifeguard,LG080,LG_080,lifeguard,05:00,12:00,7.0
+2026-07-20,Monday,PAV,AM,lifeguard,LG081,LG_081,lifeguard,05:00,12:00,7.0
+2026-07-20,Monday,PAV,AM,lifeguard,LG082,LG_082,lifeguard,05:00,12:00,7.0
+2026-07-20,Monday,Horse Park,ALL,headguard,HG003,HG_003,headguard,09:15,18:15,9.0
+2026-07-20,Monday,Horse Park,ALL,lifeguard,LG090,LG_090,lifeguard,09:15,18:15,9.0
+2026-07-20,Monday,Horse Park,ALL,lifeguard,LG003,Leighton Scroggins,lifeguard,09:15,18:15,9.0
+2026-07-20,Monday,Horse Park,ALL,slide_attendant,SA010,SA_010,slide_attendant,09:15,18:15,9.0
+2026-07-20,Monday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-20,Monday,SFAC,ALL,headguard,HG004,HG_004,headguard,10:30,19:30,9.0
+2026-07-20,Monday,SFAC,AM,lifeguard,LG004,Corbin Wright,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG005,Jake Leach,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG028,LG_028,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG029,LG_029,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG030,LG_030,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG035,LG_035,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG036,LG_036,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-20,Monday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-20,Monday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-20,Monday,PAV,PM,headguard,HG011,HG_011,headguard,12:00,21:00,9.0
+2026-07-20,Monday,PAV,PM,lifeguard,LG069,LG_069,lifeguard,12:00,21:00,9.0
+2026-07-20,Monday,PAV,PM,lifeguard,LG070,LG_070,lifeguard,12:00,21:00,9.0
+2026-07-20,Monday,PAV,PM,lifeguard,LG071,LG_071,lifeguard,12:00,21:00,9.0
+2026-07-20,Monday,PAV,PM,lifeguard,LG083,LG_083,lifeguard,12:00,21:00,9.0
+2026-07-20,Monday,SFAC,PM,lifeguard,LG006,LG_006,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG007,LG_007,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG056,LG_056,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG062,LG_062,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG064,LG_064,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG065,LG_065,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG068,LG_068,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG073,LG_073,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG074,LG_074,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG077,LG_077,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG078,LG_078,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,lifeguard,LG079,LG_079,lifeguard,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-20,Monday,SFAC,PM,slide_attendant,SA015,SA_015,slide_attendant,15:00,19:30,4.5
+2026-07-21,Tuesday,PAV,AM,lifeguard,LG008,LG_008,lifeguard,05:00,12:00,7.0
+2026-07-21,Tuesday,PAV,AM,lifeguard,LG009,LG_009,lifeguard,05:00,12:00,7.0
+2026-07-21,Tuesday,PAV,AM,lifeguard,LG010,LG_010,lifeguard,05:00,12:00,7.0
+2026-07-21,Tuesday,Horse Park,ALL,headguard,HG014,HG_014,headguard,09:15,18:15,9.0
+2026-07-21,Tuesday,Horse Park,ALL,lifeguard,LG014,LG_014,lifeguard,09:15,18:15,9.0
+2026-07-21,Tuesday,Horse Park,ALL,lifeguard,LG018,LG_018,lifeguard,09:15,18:15,9.0
+2026-07-21,Tuesday,Horse Park,ALL,slide_attendant,SA005,SA_005,slide_attendant,09:15,18:15,9.0
+2026-07-21,Tuesday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-21,Tuesday,SFAC,ALL,headguard,HG001,Tyler Robinson,headguard,10:30,19:30,9.0
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG020,LG_020,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG021,LG_021,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG022,LG_022,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG023,LG_023,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG024,LG_024,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG025,LG_025,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG026,LG_026,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG027,LG_027,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG031,LG_031,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG032,LG_032,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG048,LG_048,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-21,Tuesday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,slide_attendant,SA007,SA_007,slide_attendant,10:30,15:00,4.5
+2026-07-21,Tuesday,SFAC,AM,slide_attendant,SA008,SA_008,slide_attendant,10:30,15:00,4.5
+2026-07-21,Tuesday,PAV,PM,headguard,HG008,HG_008,headguard,12:00,21:00,9.0
+2026-07-21,Tuesday,PAV,PM,lifeguard,LG015,LG_015,lifeguard,12:00,21:00,9.0
+2026-07-21,Tuesday,PAV,PM,lifeguard,LG016,LG_016,lifeguard,12:00,21:00,9.0
+2026-07-21,Tuesday,PAV,PM,lifeguard,LG017,LG_017,lifeguard,12:00,21:00,9.0
+2026-07-21,Tuesday,PAV,PM,lifeguard,LG072,LG_072,lifeguard,12:00,21:00,9.0
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG011,LG_011,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG012,LG_012,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG013,LG_013,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG038,LG_038,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG039,LG_039,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG040,LG_040,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG041,LG_041,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG058,LG_058,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG059,LG_059,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG060,LG_060,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,lifeguard,LG063,LG_063,lifeguard,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-21,Tuesday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-22,Wednesday,PAV,AM,lifeguard,LG034,LG_034,lifeguard,05:00,12:00,7.0
+2026-07-22,Wednesday,PAV,AM,lifeguard,LG042,LG_042,lifeguard,05:00,12:00,7.0
+2026-07-22,Wednesday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-22,Wednesday,Horse Park,ALL,headguard,HG009,HG_009,headguard,09:15,18:15,9.0
+2026-07-22,Wednesday,Horse Park,ALL,lifeguard,LG043,LG_043,lifeguard,09:15,18:15,9.0
+2026-07-22,Wednesday,Horse Park,ALL,lifeguard,LG044,LG_044,lifeguard,09:15,18:15,9.0
+2026-07-22,Wednesday,Horse Park,ALL,slide_attendant,SA012,SA_012,slide_attendant,09:15,18:15,9.0
+2026-07-22,Wednesday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,10:30,19:30,9.0
+2026-07-22,Wednesday,SFAC,ALL,headguard,HG010,HG_010,headguard,10:30,19:30,9.0
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG045,LG_045,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG066,LG_066,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG067,LG_067,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG075,LG_075,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG076,LG_076,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG084,LG_084,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG085,LG_085,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG086,LG_086,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG087,LG_087,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG088,LG_088,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,lifeguard,LG089,LG_089,lifeguard,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,ALL,manager,MGR003,MGR_003,manager,10:30,19:30,9.0
+2026-07-22,Wednesday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,slide_attendant,SA014,SA_014,slide_attendant,10:30,15:00,4.5
+2026-07-22,Wednesday,SFAC,AM,slide_attendant,SA015,SA_015,slide_attendant,10:30,15:00,4.5
+2026-07-22,Wednesday,PAV,PM,headguard,HG012,HG_012,headguard,12:00,21:00,9.0
+2026-07-22,Wednesday,PAV,PM,lifeguard,HG013,HG_013,headguard,12:00,21:00,9.0
+2026-07-22,Wednesday,PAV,PM,lifeguard,LG019,LG_019,lifeguard,12:00,21:00,9.0
+2026-07-22,Wednesday,PAV,PM,lifeguard,LG049,LG_049,lifeguard,12:00,21:00,9.0
+2026-07-22,Wednesday,PAV,PM,lifeguard,LG051,LG_051,lifeguard,12:00,21:00,9.0
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG004,Corbin Wright,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,HG002,HG_002,headguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,HG005,HG_005,headguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,HG006,HG_006,headguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,HG007,HG_007,headguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,HG015,HG_015,headguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG005,Jake Leach,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG052,LG_052,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG053,LG_053,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG054,LG_054,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG055,LG_055,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,lifeguard,LG061,LG_061,lifeguard,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-22,Wednesday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-23,Thursday,PAV,AM,lifeguard,LG028,LG_028,lifeguard,05:00,12:00,7.0
+2026-07-23,Thursday,PAV,AM,lifeguard,LG029,LG_029,lifeguard,05:00,12:00,7.0
+2026-07-23,Thursday,PAV,AM,lifeguard,LG030,LG_030,lifeguard,05:00,12:00,7.0
+2026-07-23,Thursday,Horse Park,ALL,headguard,HG005,HG_005,headguard,09:15,18:15,9.0
+2026-07-23,Thursday,Horse Park,ALL,lifeguard,LG035,LG_035,lifeguard,09:15,18:15,9.0
+2026-07-23,Thursday,Horse Park,ALL,lifeguard,LG036,LG_036,lifeguard,09:15,18:15,9.0
+2026-07-23,Thursday,Horse Park,ALL,slide_attendant,SA008,SA_008,slide_attendant,09:15,18:15,9.0
+2026-07-23,Thursday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-23,Thursday,SFAC,ALL,headguard,HG007,HG_007,headguard,10:30,19:30,9.0
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG056,LG_056,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG062,LG_062,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG064,LG_064,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG065,LG_065,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG068,LG_068,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG074,LG_074,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,lifeguard,LG077,LG_077,lifeguard,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-23,Thursday,SFAC,AM,slide_attendant,SA002,SA_002,slide_attendant,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,slide_attendant,SA009,SA_009,slide_attendant,10:30,15:00,4.5
+2026-07-23,Thursday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-23,Thursday,PAV,PM,headguard,HG015,HG_015,headguard,12:00,21:00,9.0
+2026-07-23,Thursday,PAV,PM,lifeguard,LG006,LG_006,lifeguard,12:00,21:00,9.0
+2026-07-23,Thursday,PAV,PM,lifeguard,LG007,LG_007,lifeguard,12:00,21:00,9.0
+2026-07-23,Thursday,PAV,PM,lifeguard,LG078,LG_078,lifeguard,12:00,21:00,9.0
+2026-07-23,Thursday,PAV,PM,lifeguard,LG079,LG_079,lifeguard,12:00,21:00,9.0
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG020,LG_020,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG021,LG_021,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG022,LG_022,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG031,LG_031,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG048,LG_048,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,lifeguard,LG060,LG_060,lifeguard,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-23,Thursday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-24,Friday,PAV,AM,lifeguard,LG011,LG_011,lifeguard,05:00,12:00,7.0
+2026-07-24,Friday,PAV,AM,lifeguard,LG063,LG_063,lifeguard,05:00,12:00,7.0
+2026-07-24,Friday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-24,Friday,Horse Park,ALL,headguard,HG006,HG_006,headguard,09:15,18:15,9.0
+2026-07-24,Friday,Horse Park,ALL,lifeguard,LG012,LG_012,lifeguard,09:15,18:15,9.0
+2026-07-24,Friday,Horse Park,ALL,lifeguard,LG013,LG_013,lifeguard,09:15,18:15,9.0
+2026-07-24,Friday,Horse Park,ALL,slide_attendant,SA015,SA_015,slide_attendant,09:15,18:15,9.0
+2026-07-24,Friday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-24,Friday,SFAC,ALL,headguard,HG002,HG_002,headguard,10:30,19:30,9.0
+2026-07-24,Friday,SFAC,AM,lifeguard,LG033,LG_033,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG038,LG_038,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG039,LG_039,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG040,LG_040,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG041,LG_041,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG045,LG_045,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG058,LG_058,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG059,LG_059,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG066,LG_066,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG067,LG_067,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG075,LG_075,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,lifeguard,LG076,LG_076,lifeguard,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-24,Friday,SFAC,AM,slide_attendant,SA004,SA_004,slide_attendant,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,slide_attendant,SA005,SA_005,slide_attendant,10:30,15:00,4.5
+2026-07-24,Friday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-24,Friday,PAV,PM,headguard,HG003,HG_003,headguard,12:00,21:00,9.0
+2026-07-24,Friday,PAV,PM,lifeguard,LG084,LG_084,lifeguard,12:00,21:00,9.0
+2026-07-24,Friday,PAV,PM,lifeguard,LG085,LG_085,lifeguard,12:00,21:00,9.0
+2026-07-24,Friday,PAV,PM,lifeguard,LG086,LG_086,lifeguard,12:00,21:00,9.0
+2026-07-24,Friday,PAV,PM,lifeguard,LG087,LG_087,lifeguard,12:00,21:00,9.0
+2026-07-24,Friday,SFAC,PM,lifeguard,LG008,LG_008,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG009,LG_009,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG052,LG_052,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG053,LG_053,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG054,LG_054,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG055,LG_055,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG061,LG_061,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG080,LG_080,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG081,LG_081,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG082,LG_082,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG088,LG_088,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,lifeguard,LG089,LG_089,lifeguard,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-24,Friday,SFAC,PM,slide_attendant,SA009,SA_009,slide_attendant,15:00,19:30,4.5
+2026-07-25,Saturday,PAV,AM,lifeguard,LG010,LG_010,lifeguard,05:00,12:00,7.0
+2026-07-25,Saturday,PAV,AM,lifeguard,LG034,LG_034,lifeguard,05:00,12:00,7.0
+2026-07-25,Saturday,PAV,AM,lifeguard,LG042,LG_042,lifeguard,05:00,12:00,7.0
+2026-07-25,Saturday,Horse Park,ALL,headguard,HG004,HG_004,headguard,09:15,18:15,9.0
+2026-07-25,Saturday,Horse Park,ALL,lifeguard,LG090,LG_090,lifeguard,09:15,18:15,9.0
+2026-07-25,Saturday,Horse Park,ALL,lifeguard,LG003,Leighton Scroggins,lifeguard,09:15,18:15,9.0
+2026-07-25,Saturday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,09:15,18:15,9.0
+2026-07-25,Saturday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-25,Saturday,SFAC,ALL,headguard,HG011,HG_011,headguard,10:30,19:30,9.0
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG004,Corbin Wright,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG005,Jake Leach,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG056,LG_056,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG062,LG_062,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG069,LG_069,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG070,LG_070,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG071,LG_071,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,lifeguard,LG083,LG_083,lifeguard,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-25,Saturday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-25,Saturday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-25,Saturday,PAV,PM,headguard,HG014,HG_014,headguard,12:00,21:00,9.0
+2026-07-25,Saturday,PAV,PM,lifeguard,LG064,LG_064,lifeguard,12:00,21:00,9.0
+2026-07-25,Saturday,PAV,PM,lifeguard,LG065,LG_065,lifeguard,12:00,21:00,9.0
+2026-07-25,Saturday,PAV,PM,lifeguard,LG068,LG_068,lifeguard,12:00,21:00,9.0
+2026-07-25,Saturday,PAV,PM,lifeguard,LG073,LG_073,lifeguard,12:00,21:00,9.0
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG014,LG_014,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG018,LG_018,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG020,LG_020,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG021,LG_021,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG022,LG_022,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG074,LG_074,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,lifeguard,LG077,LG_077,lifeguard,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-25,Saturday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-26,Sunday,Horse Park,ALL,headguard,HG001,Tyler Robinson,headguard,11:15,18:15,7.0
+2026-07-26,Sunday,Horse Park,ALL,lifeguard,LG031,LG_031,lifeguard,11:15,18:15,7.0
+2026-07-26,Sunday,Horse Park,ALL,lifeguard,LG032,LG_032,lifeguard,11:15,18:15,7.0
+2026-07-26,Sunday,Horse Park,ALL,slide_attendant,SA003,SA_003,slide_attendant,11:15,18:15,7.0
+2026-07-26,Sunday,PAV,ALL,headguard,HG008,HG_008,headguard,11:30,18:15,6.75
+2026-07-26,Sunday,PAV,ALL,lifeguard,LG015,LG_015,lifeguard,11:30,18:15,6.75
+2026-07-26,Sunday,PAV,ALL,lifeguard,LG016,LG_016,lifeguard,11:30,18:15,6.75
+2026-07-26,Sunday,PAV,ALL,lifeguard,LG048,LG_048,lifeguard,11:30,18:15,6.75
+2026-07-26,Sunday,PAV,ALL,lifeguard,LG072,LG_072,lifeguard,11:30,18:15,6.75
+2026-07-26,Sunday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,headguard,HG009,HG_009,headguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG017,LG_017,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG033,LG_033,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG038,LG_038,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG039,LG_039,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG040,LG_040,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG041,LG_041,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG043,LG_043,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG044,LG_044,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG045,LG_045,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG058,LG_058,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG059,LG_059,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,lifeguard,LG060,LG_060,lifeguard,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,manager,MGR003,MGR_003,manager,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,slide_attendant,SA005,SA_005,slide_attendant,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,slide_attendant,SA006,SA_006,slide_attendant,11:30,19:30,8.0
+2026-07-26,Sunday,SFAC,ALL,slide_attendant,SA007,SA_007,slide_attendant,11:30,19:30,8.0
+2026-07-27,Monday,PAV,AM,lifeguard,LG080,LG_080,lifeguard,05:00,12:00,7.0
+2026-07-27,Monday,PAV,AM,lifeguard,LG081,LG_081,lifeguard,05:00,12:00,7.0
+2026-07-27,Monday,PAV,AM,lifeguard,LG082,LG_082,lifeguard,05:00,12:00,7.0
+2026-07-27,Monday,Horse Park,ALL,headguard,HG010,HG_010,headguard,09:15,18:15,9.0
+2026-07-27,Monday,Horse Park,ALL,lifeguard,LG028,LG_028,lifeguard,09:15,18:15,9.0
+2026-07-27,Monday,Horse Park,ALL,lifeguard,LG029,LG_029,lifeguard,09:15,18:15,9.0
+2026-07-27,Monday,Horse Park,ALL,slide_attendant,SA010,SA_010,slide_attendant,09:15,18:15,9.0
+2026-07-27,Monday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-27,Monday,SFAC,ALL,headguard,HG012,HG_012,headguard,10:30,19:30,9.0
+2026-07-27,Monday,SFAC,AM,lifeguard,LG004,Corbin Wright,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG005,Jake Leach,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG008,LG_008,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG009,LG_009,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG030,LG_030,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG035,LG_035,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG036,LG_036,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-27,Monday,SFAC,AM,slide_attendant,SA011,SA_011,slide_attendant,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,slide_attendant,SA012,SA_012,slide_attendant,10:30,15:00,4.5
+2026-07-27,Monday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-27,Monday,PAV,PM,headguard,HG013,HG_013,headguard,12:00,21:00,9.0
+2026-07-27,Monday,PAV,PM,lifeguard,LG069,LG_069,lifeguard,12:00,21:00,9.0
+2026-07-27,Monday,PAV,PM,lifeguard,LG070,LG_070,lifeguard,12:00,21:00,9.0
+2026-07-27,Monday,PAV,PM,lifeguard,LG071,LG_071,lifeguard,12:00,21:00,9.0
+2026-07-27,Monday,PAV,PM,lifeguard,LG083,LG_083,lifeguard,12:00,21:00,9.0
+2026-07-27,Monday,SFAC,PM,lifeguard,LG056,LG_056,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG062,LG_062,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG066,LG_066,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG067,LG_067,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG074,LG_074,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG075,LG_075,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG076,LG_076,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG077,LG_077,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG078,LG_078,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG079,LG_079,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG088,LG_088,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,lifeguard,LG003,Leighton Scroggins,lifeguard,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,slide_attendant,SA008,SA_008,slide_attendant,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-27,Monday,SFAC,PM,slide_attendant,SA015,SA_015,slide_attendant,15:00,19:30,4.5
+2026-07-28,Tuesday,PAV,AM,lifeguard,LG011,LG_011,lifeguard,05:00,12:00,7.0
+2026-07-28,Tuesday,PAV,AM,lifeguard,LG063,LG_063,lifeguard,05:00,12:00,7.0
+2026-07-28,Tuesday,PAV,AM,lifeguard,LG089,LG_089,lifeguard,05:00,12:00,7.0
+2026-07-28,Tuesday,Horse Park,ALL,headguard,HG003,HG_003,headguard,09:15,18:15,9.0
+2026-07-28,Tuesday,Horse Park,ALL,lifeguard,LG006,LG_006,lifeguard,09:15,18:15,9.0
+2026-07-28,Tuesday,Horse Park,ALL,lifeguard,LG007,LG_007,lifeguard,09:15,18:15,9.0
+2026-07-28,Tuesday,Horse Park,ALL,slide_attendant,SA009,SA_009,slide_attendant,09:15,18:15,9.0
+2026-07-28,Tuesday,SFAC,ALL,cashier,CASH004,CASH_004,cashier,10:30,19:30,9.0
+2026-07-28,Tuesday,SFAC,ALL,headguard,HG004,HG_004,headguard,10:30,19:30,9.0
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG014,LG_014,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG018,LG_018,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG019,LG_019,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG020,LG_020,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG021,LG_021,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG022,LG_022,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG023,LG_023,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG024,LG_024,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG025,LG_025,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG026,LG_026,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG027,LG_027,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,ALL,manager,MGR004,MGR_004,manager,10:30,19:30,9.0
+2026-07-28,Tuesday,SFAC,AM,slide_attendant,SA002,SA_002,slide_attendant,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,slide_attendant,SA004,SA_004,slide_attendant,10:30,15:00,4.5
+2026-07-28,Tuesday,SFAC,AM,slide_attendant,SA005,SA_005,slide_attendant,10:30,15:00,4.5
+2026-07-28,Tuesday,PAV,PM,headguard,HG011,HG_011,headguard,12:00,21:00,9.0
+2026-07-28,Tuesday,PAV,PM,lifeguard,LG010,LG_010,lifeguard,12:00,21:00,9.0
+2026-07-28,Tuesday,PAV,PM,lifeguard,LG049,LG_049,lifeguard,12:00,21:00,9.0
+2026-07-28,Tuesday,PAV,PM,lifeguard,LG051,LG_051,lifeguard,12:00,21:00,9.0
+2026-07-28,Tuesday,PAV,PM,lifeguard,LG090,LG_090,lifeguard,12:00,21:00,9.0
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG012,LG_012,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG013,LG_013,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG015,LG_015,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG031,LG_031,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG032,LG_032,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG048,LG_048,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG052,LG_052,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG053,LG_053,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG054,LG_054,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG055,LG_055,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG061,LG_061,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,lifeguard,LG072,LG_072,lifeguard,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
+2026-07-28,Tuesday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-29,Wednesday,PAV,AM,lifeguard,LG016,LG_016,lifeguard,05:00,12:00,7.0
+2026-07-29,Wednesday,PAV,AM,lifeguard,LG034,LG_034,lifeguard,05:00,12:00,7.0
+2026-07-29,Wednesday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-29,Wednesday,Horse Park,ALL,headguard,HG005,HG_005,headguard,09:15,18:15,9.0
+2026-07-29,Wednesday,Horse Park,ALL,lifeguard,LG064,LG_064,lifeguard,09:15,18:15,9.0
+2026-07-29,Wednesday,Horse Park,ALL,lifeguard,LG065,LG_065,lifeguard,09:15,18:15,9.0
+2026-07-29,Wednesday,Horse Park,ALL,slide_attendant,SA012,SA_012,slide_attendant,09:15,18:15,9.0
+2026-07-29,Wednesday,SFAC,ALL,cashier,CASH003,CASH_003,cashier,10:30,19:30,9.0
+2026-07-29,Wednesday,SFAC,ALL,headguard,HG007,HG_007,headguard,10:30,19:30,9.0
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG017,LG_017,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG042,LG_042,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG050,LG_050,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG058,LG_058,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG059,LG_059,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG060,LG_060,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG068,LG_068,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG084,LG_084,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG085,LG_085,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG086,LG_086,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,lifeguard,LG087,LG_087,lifeguard,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,ALL,manager,MGR003,MGR_003,manager,10:30,19:30,9.0
+2026-07-29,Wednesday,SFAC,AM,slide_attendant,SA013,SA_013,slide_attendant,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,slide_attendant,SA014,SA_014,slide_attendant,10:30,15:00,4.5
+2026-07-29,Wednesday,SFAC,AM,slide_attendant,SA015,SA_015,slide_attendant,10:30,15:00,4.5
+2026-07-29,Wednesday,PAV,PM,headguard,HG015,HG_015,headguard,12:00,21:00,9.0
+2026-07-29,Wednesday,PAV,PM,lifeguard,LG038,LG_038,lifeguard,12:00,21:00,9.0
+2026-07-29,Wednesday,PAV,PM,lifeguard,LG039,LG_039,lifeguard,12:00,21:00,9.0
+2026-07-29,Wednesday,PAV,PM,lifeguard,LG040,LG_040,lifeguard,12:00,21:00,9.0
+2026-07-29,Wednesday,PAV,PM,lifeguard,LG041,LG_041,lifeguard,12:00,21:00,9.0
+2026-07-29,Wednesday,SFAC,PM,lifeguard,LG004,Corbin Wright,lifeguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,HG002,HG_002,headguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,HG006,HG_006,headguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,HG008,HG_008,headguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,HG009,HG_009,headguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,HG014,HG_014,headguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,LG030,LG_030,lifeguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,LG043,LG_043,lifeguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,LG044,LG_044,lifeguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,lifeguard,HG001,Tyler Robinson,headguard,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,slide_attendant,SA002,SA_002,slide_attendant,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-29,Wednesday,SFAC,PM,slide_attendant,SA008,SA_008,slide_attendant,15:00,19:30,4.5
+2026-07-30,Thursday,PAV,AM,lifeguard,LG005,Jake Leach,lifeguard,05:00,12:00,7.0
+2026-07-30,Thursday,PAV,AM,lifeguard,LG008,LG_008,lifeguard,05:00,12:00,7.0
+2026-07-30,Thursday,PAV,AM,lifeguard,LG009,LG_009,lifeguard,05:00,12:00,7.0
+2026-07-30,Thursday,Horse Park,ALL,headguard,HG001,Tyler Robinson,headguard,09:15,18:15,9.0
+2026-07-30,Thursday,Horse Park,ALL,lifeguard,LG035,LG_035,lifeguard,09:15,18:15,9.0
+2026-07-30,Thursday,Horse Park,ALL,lifeguard,LG036,LG_036,lifeguard,09:15,18:15,9.0
+2026-07-30,Thursday,Horse Park,ALL,slide_attendant,SA005,SA_005,slide_attendant,09:15,18:15,9.0
+2026-07-30,Thursday,SFAC,ALL,cashier,CASH002,CASH_002,cashier,10:30,19:30,9.0
+2026-07-30,Thursday,SFAC,ALL,headguard,HG006,HG_006,headguard,10:30,19:30,9.0
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG037,LG_037,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG046,LG_046,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG047,LG_047,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG056,LG_056,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG057,LG_057,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG062,LG_062,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG066,LG_066,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG067,LG_067,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG074,LG_074,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG075,LG_075,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG076,LG_076,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,lifeguard,LG003,Leighton Scroggins,lifeguard,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,ALL,manager,MGR002,Liv Thompson,manager,10:30,19:30,9.0
+2026-07-30,Thursday,SFAC,AM,slide_attendant,SA006,SA_006,slide_attendant,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,slide_attendant,SA007,SA_007,slide_attendant,10:30,15:00,4.5
+2026-07-30,Thursday,SFAC,AM,slide_attendant,SA010,SA_010,slide_attendant,10:30,15:00,4.5
+2026-07-30,Thursday,PAV,PM,headguard,HG008,HG_008,headguard,12:00,21:00,9.0
+2026-07-30,Thursday,PAV,PM,lifeguard,LG077,LG_077,lifeguard,12:00,21:00,9.0
+2026-07-30,Thursday,PAV,PM,lifeguard,LG078,LG_078,lifeguard,12:00,21:00,9.0
+2026-07-30,Thursday,PAV,PM,lifeguard,LG079,LG_079,lifeguard,12:00,21:00,9.0
+2026-07-30,Thursday,PAV,PM,lifeguard,LG088,LG_088,lifeguard,12:00,21:00,9.0
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG014,LG_014,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG018,LG_018,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG019,LG_019,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG020,LG_020,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG021,LG_021,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG022,LG_022,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG023,LG_023,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG024,LG_024,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG025,LG_025,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG026,LG_026,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG027,LG_027,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,lifeguard,LG052,LG_052,lifeguard,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,slide_attendant,SA011,SA_011,slide_attendant,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,slide_attendant,SA013,SA_013,slide_attendant,15:00,19:30,4.5
+2026-07-30,Thursday,SFAC,PM,slide_attendant,SA014,SA_014,slide_attendant,15:00,19:30,4.5
+2026-07-31,Friday,PAV,AM,lifeguard,LG053,LG_053,lifeguard,05:00,12:00,7.0
+2026-07-31,Friday,PAV,AM,lifeguard,LG054,LG_054,lifeguard,05:00,12:00,7.0
+2026-07-31,Friday,PAV,AM,lifeguard,LG002,Wyatt Highley,lifeguard,05:00,12:00,7.0
+2026-07-31,Friday,Horse Park,ALL,headguard,HG014,HG_014,headguard,09:15,18:15,9.0
+2026-07-31,Friday,Horse Park,ALL,lifeguard,LG012,LG_012,lifeguard,09:15,18:15,9.0
+2026-07-31,Friday,Horse Park,ALL,lifeguard,LG055,LG_055,lifeguard,09:15,18:15,9.0
+2026-07-31,Friday,Horse Park,ALL,slide_attendant,SA015,SA_015,slide_attendant,09:15,18:15,9.0
+2026-07-31,Friday,SFAC,ALL,cashier,CASH005,CASH_005,cashier,10:30,19:30,9.0
+2026-07-31,Friday,SFAC,ALL,headguard,HG002,HG_002,headguard,10:30,19:30,9.0
+2026-07-31,Friday,SFAC,AM,lifeguard,LG013,LG_013,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG015,LG_015,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG031,LG_031,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG032,LG_032,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG048,LG_048,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG061,LG_061,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG068,LG_068,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG072,LG_072,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG073,LG_073,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG084,LG_084,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG085,LG_085,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,lifeguard,LG086,LG_086,lifeguard,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,ALL,manager,MGR005,MGR_005,manager,10:30,19:30,9.0
+2026-07-31,Friday,SFAC,AM,slide_attendant,SA002,SA_002,slide_attendant,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,slide_attendant,SA008,SA_008,slide_attendant,10:30,15:00,4.5
+2026-07-31,Friday,SFAC,AM,slide_attendant,SA009,SA_009,slide_attendant,10:30,15:00,4.5
+2026-07-31,Friday,PAV,PM,headguard,HG009,HG_009,headguard,12:00,21:00,9.0
+2026-07-31,Friday,PAV,PM,lifeguard,LG017,LG_017,lifeguard,12:00,21:00,9.0
+2026-07-31,Friday,PAV,PM,lifeguard,LG042,LG_042,lifeguard,12:00,21:00,9.0
+2026-07-31,Friday,PAV,PM,lifeguard,LG060,LG_060,lifeguard,12:00,21:00,9.0
+2026-07-31,Friday,PAV,PM,lifeguard,LG087,LG_087,lifeguard,12:00,21:00,9.0
+2026-07-31,Friday,SFAC,PM,lifeguard,LG011,LG_011,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG033,LG_033,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG043,LG_043,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG044,LG_044,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG045,LG_045,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG058,LG_058,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG059,LG_059,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG063,LG_063,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG080,LG_080,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG081,LG_081,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG082,LG_082,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,lifeguard,LG089,LG_089,lifeguard,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,slide_attendant,SA004,SA_004,slide_attendant,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,slide_attendant,SA006,SA_006,slide_attendant,15:00,19:30,4.5
+2026-07-31,Friday,SFAC,PM,slide_attendant,SA007,SA_007,slide_attendant,15:00,19:30,4.5
